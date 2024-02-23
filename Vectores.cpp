@@ -1,3 +1,12 @@
+/***************Presentacion********************************
+Nombre: Mario Rizo Romo
+Fecha: 29 de Enero de 2024
+Programa: holamundo.cpp
+Centro Universitario de los Altos
+Ingeniería en Computación/2do Semestre
+Profesor: Sergio Franco Casillas
+Descripción: Describir el contenido del archivo
+***************************************************************/
 #include <iostream> // Incluimos el encabezado iostream para poder utilizar las funciones de entrada y salida estándar
 #include <vector>
 using namespace std; // Utilizamos la directiva using para no tener que escribir std:: antes de cada uso de objetos del espacio de nombres std
