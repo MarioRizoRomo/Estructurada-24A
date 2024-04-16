@@ -1,3 +1,16 @@
+/*
+   *************************************************************
+   *                      Presentacion                        *
+   *************************************************************
+   * Nombre: Mario Rizo Romo                                      *
+   * Fecha: 8 de Abril de 2024                                    *
+   * Programa: Terres de hanoi                                    *
+   * Centro Universitario de los Altos                            *
+   * IngenierÃ­a en ComputaciÃ³n/2do Semestre                       *
+   * Profesor: Sergio Franco Casillas                             *
+   * DescripciÃ³n: Elaborar el juego de las Torres de Hanoi en C++ *
+   *************************************************************
+*/
 #include <iostream>
 #include <string>
 #include <cctype>
